@@ -28,27 +28,33 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br><br>
+
+- :woman_technologist: QA Tester Manual y Automatizadora Junior con experiencia en el sector bancario (BHD).
+- :bar_chart: Enfocada en asegurar la calidad del software con pruebas funcionales, exploratorias y de regresión.
+- :gear: Experiencia en automatización con `Selenium`, `Playwright`, y diseño de pruebas con `POM`.
+- :globe_with_meridians: Pruebas de APIs usando `Postman`, validación de respuestas y flujos.
+- :mortar_board: En constante aprendizaje sobre `automatización`, `dev tools`, y mejores prácticas de QA.
+- :rocket: Apasionada por entregar productos de alta calidad y contribuir con equipos ágiles.
+- :eyes: Actualmente en búsqueda de nuevas oportunidades profesionales como QA Tester / Automatizadora.
+- :link: Aquí puedes ver [MI CV](www.linkedin.com/in/esmerlin-de-jesús-a22949190) (← pon el enlace real que quieras compartir).
+<!-- Opcional -->
+<!-- - :globe_with_meridians: Visita mi portafolio en [MI SITIO WEB](#). -->
+
 <br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50"/></a>
+  <a href="https://www.pega.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pegasystems_logo.svg/2560px-Pegasystems_logo.svg.png" alt="Pega" width="70"/></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/></a>
 </p>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
