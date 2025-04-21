@@ -59,10 +59,6 @@
   </a>
 </p>
 
-
-
-¡Claro! Te ayudo a ajustar ese código para que represente con precisión tus conocimientos y experiencia actuales como QA Tester (manual y con conocimientos de automatización). Vamos a quitar tecnologías que no usas y dejar lo que sí manejas, basándonos en tu perfil.
-
 ---
 
 ### 🛠️ My Skills (Actualizado)
